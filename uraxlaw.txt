@@ -1,0 +1,296 @@
+
+BÁO CÁO MÔ TẢ DỰ ÁN
+CUỘC THI ATTACKER 2025: ARE YOU AN INNOVATOR? WE’RE YOUR INVESTORS”
+I. THÔNG TIN CƠ BẢN
+Tên dự án: URA-xLaw – Nền tảng AI Tư vấn Hỏi – Đáp Văn bản Pháp luật Ngân hàng Nhà nước (AI–Powered Legal Advisory Platform for the State Bank of Vietnam Documents)
+Tên đội thi: URAx
+Số điện thoại liên hệ: 0837026259			Email: long.nguyencse2023@hcmut.edu.vn
+Tổ chức: Trường Đại học Bách khoa – ĐHQG-HCM
+Thành viên:
+STT	Họ & tên	Đơn vị	Chuyên môn
+1	Nguyễn Song Thiên Long	Trường Đại học Bách khoa – ĐHQG-HCM	Khoa học Máy tính
+2	Lê Thanh Duy	Trường Đại học Bách khoa – ĐHQG-HCM	Khoa học Máy tính
+3	Võ Thị Như Quỳnh	Trường Đại học Bách khoa – ĐHQG-HCM	Khoa học Máy tính
+4	Phan Quốc Khoa	Trường Đại học Bách khoa – ĐHQG-HCM	Khoa học Máy tính
+5	Lê Ngọc Hùng Dũng	Trường Đại học Bách khoa – ĐHQG-HCM	Khoa học Máy tính
+
+Cố vấn chuyên môn:
+1. PGS. TS. Quản Thành Thơ – Trưởng Khoa, Khoa Khoa học và Kỹ thuật Máy tính, Trường Đại học Bách khoa – ĐHQG-HCM
+2. ThS. Nguyễn Ngọc Thái – Phó Giám đốc phụ trách kỹ thuật kiêm Trưởng phòng Tư vấn giải pháp, Viettel Solutions
+Lĩnh vực:
+☒ Các dự án/sản phẩm về ứng dụng công nghệ thuộc các lĩnh vực về kinh tế, kinh doanh;
+☐ Các dự án/sản phẩm ứng dụng công nghệ trong nhận diện sinh trắc học;
+☐ Các dự án/sản phẩm ứng dụng công nghệ tự động hóa quy trình phân loại, đánh giá, xếp hạng tín nhiệm, cho vay, quản lý khoản vay theo hướng đối tượng sinh viên, công nhân viên, người lao động, hộ gia đình kinh doanh nhỏ lẻ;
+☐ Các dự án/sản phẩm ứng dụng công nghệ Blockchain trong cho vay, thanh toán, quản lý, kiểm soát rủi ro;
+☐ Các dự án/sản phẩm ứng dụng công nghệ khác
+
+ 
+II. HIỆN TRẠNG CỦA DỰ ÁN
+Nêu rõ dự án đang ở giai đoạn nào:
+☐ Ý tưởng (Idea)
+☐ Nguyên mẫu (Prototype)
+☒ Sản phẩm sử dụng tối thiểu (Minimum Viable Product – MVP)
+☐ Thử nghiệm (Pilot)
+☐ Deployed (Triển khai)
+Lưu ý: trường hợp dự án đã được thành lập pháp nhân hoặc thuộc sở hữu của pháp nhân khác. Vui long cung cấp chi tiết thông về pháp nhân này:
+-	Pháp nhân sở hữu dự án:
+-	Người đại diện:
+-	Mã số thuế:
+-	Địa chỉ:
+-	Số điện thoại liên hệ:
+-	Email:  
+
+
+ 
+III. MÔ TẢ Ý TƯỞNG (Tối đa 1.000 từ)
+“Nội dung trình bày không bị giới hạn bởi những đề xuất sau”
+Trình bày tổng quan về mô hình kinh doanh và vấn đề mà dự án nhắm đến. Mô tả rõ ràng ý tưởng của bạn và cách thức hoạt động của nó.  Giải thích cốt lõi của giải pháp hoặc sản phẩm được đề xuất một cách đơn giản, bao gồm bất kỳ sản phẩm, dịch vụ hoặc công nghệ nào liên quan. Tại sao vấn đề này lại quan trọng đối với xã hội hoặc lĩnh vực tài chính/ngân hàng?  Đối tượng nào đang chịu ảnh hưởng?  Nhấn mạnh tầm quan trọng về mặt xã hội và/hoặc tài chính của việc giải quyết vấn đề này.
+Trong hệ sinh thái tài chính – ngân hàng, hệ thống văn bản quy phạm pháp luật do Ngân hàng Nhà nước Việt Nam (NHNN) ban hành đóng vai trò nền tảng, điều chỉnh các hoạt động tín dụng, ngoại hối, an toàn vốn, quản trị rủi ro và kiểm toán nội bộ. Tuy nhiên, thách thức lớn hiện nay nằm ở khối lượng văn bản khổng lồ, tần suất sửa đổi – bổ sung cao và mạng lưới viện dẫn chồng chéo giữa Luật, Nghị định, Thông tư và Quyết định. Việc tra cứu thủ công dễ dẫn đến áp dụng sai phiên bản, bỏ sót ngoại lệ hoặc chậm trễ trong ra quyết định, kéo theo rủi ro tuân thủ và chi phí xử lý đáng kể.
+
+Hình 1. Quy trình tra cứu văn bản pháp luật hiện tại của Ngân hàng Nhà nước Việt Nam  – minh họa cho khối lượng và sự phức tạp của hệ thống quy định mà URA-xLaw hướng tới số hóa và tự động hóa.
+URA-xLaw được phát triển để giải quyết triệt để bài toán này: một nền tảng trợ lý pháp lý chuyên biệt cho NHNN, cung cấp câu trả lời nhanh, chính xác, có trích dẫn và giải thích rõ ràng, hướng tới chuẩn mực minh bạch và khả năng kiểm toán trong vận hành ngân hàng.
+Mô hình kinh doanh và đối tượng phục vụ. URA-xLaw được định vị theo mô hình B2B SaaS, có khả năng mở rộng linh hoạt tùy quy mô và mức độ tích hợp của khách hàng. Sản phẩm gồm bốn gói:
+•	SOLO – cho cá nhân hoặc SME cần tra cứu nhanh
+•	TEAM – cho nhóm pháp chế/fintech làm việc cộng tác
+•	ENTERPRISE CLOUD – cho tổ chức tài chính cần API, SLA và tích hợp hệ thống
+•	ENTERPRISE SUITE (on-prem/private cloud) – phiên bản đầy đủ kèm giao diện và hạ tầng triển khai nội bộ, đáp ứng yêu cầu bảo mật và phân vùng dữ liệu
+Đối tượng thụ hưởng trực tiếp gồm các bộ phận pháp chế, tín dụng, quản trị rủi ro, kiểm toán nội bộ và cố vấn pháp lý tại tổ chức tín dụng; gián tiếp là doanh nghiệp, nhà đầu tư, và người học/nghiên cứu lĩnh vực luật – tài chính.
+Cốt lõi công nghệ. Trung tâm của URA-xLaw là LawRAG (kiến trúc Retrieval-Augmented Generation chuyên miền luật tiếng Việt) và LawGraph (đồ thị tri thức pháp luật).
+•	LawRAG xử lý ngôn ngữ pháp lý tiếng Việt để tạo câu trả lời tự nhiên kèm trích dẫn Điều/Khoản bắt buộc; khi thiếu căn cứ, áp dụng chính sách no-answer và đề xuất nguồn gần nhất.
+•	LawGraph mô hình hóa các quan hệ sửa đổi, bãi bỏ, tham chiếu, áp dụng, ngoại lệ giữa các văn bản, đồng thời quản lý trạng thái hiệu lực theo thời gian.
+Sự kết hợp này bảo đảm hệ thống không chỉ “tìm đúng điều luật” mà còn giải thích được chuỗi viện dẫn dẫn tới kết luận hiện hành, nâng cao tính minh bạch và khả năng kiểm chứng.
+Kiến trúc đa tác tử (AI Multi-Agent). URA-xLaw áp dụng lớp điều phối bằng AI agent để kiểm soát luồng xử lý và chất lượng đầu ra:
+1.	Intent & Normalize Agent – nhận diện mục đích (tra cứu quy định, kiểm tra hiệu lực, so sánh thay đổi, tạo checklist) và chuẩn hóa thuật ngữ pháp lý tiếng Việt (ví dụ: “TSĐB” = “tài sản bảo đảm”).
+2.	Retriever Agent – truy hồi đa bước (multi-hop) kết hợp chỉ mục ngữ nghĩa và LawGraph, lọc theo mốc hiệu lực và đối tượng áp dụng; với kiến trúc LawRAG là nền tảng.
+3.	Applicability & Effectivity Agent – xác định phạm vi áp dụng (tổ chức/cá nhân, sản phẩm/dịch vụ), gắn nhãn Còn hiệu lực / Hết hiệu lực / Dự thảo.
+4.	Citation & Guardrail Agent – hậu kiểm trích dẫn và chất lượng; áp dụng quy tắc no citation → no answer để giảm thiểu ảo giác.
+Tích hợp thêm hai năng lực giá trị cao: (i) Diff & Redline: so sánh phiên bản theo Điều/Khoản, làm rõ thay đổi và tác động nghiệp vụ; (ii) Checklist tuân thủ tự động: xuất danh mục hành động kèm trích dẫn phục vụ tín dụng/KSNB/kiểm toán.
+Ở tầng dữ liệu, Change-Watcher Agent theo dõi nguồn công bố chính thức, tự động thu thập – so sánh thay đổi – cập nhật chỉ mục và LawGraph, đáp ứng SLA cập nhật (ví dụ ≤ 24 giờ).
+Trải nghiệm người dùng. URA-xLaw cung cấp Answer Card gọn gàng và chuẩn mực: phần trả lời súc tích, huy hiệu trạng thái hiệu lực, 2–3 trích dẫn Điều/Khoản liên kết tới nguồn chính thức, nút Explain Path hiển thị mini-graph tuyến viện dẫn/sửa đổi, và chức năng Export (Word/PDF) kèm checklist. Thiết kế này phù hợp quy trình tác nghiệp thực tế: vừa trả lời nhanh khi trao đổi nội bộ, vừa sẵn bằng chứng và biện giải khi báo cáo hoặc kiểm toán.
+Khác biệt so với chatbot tổng dụng. Các mô hình dùng chung thường gặp 4 hạn chế tại Việt Nam: (i) ảo giác thông tin khi thiếu căn cứ; (ii) không phân giải phiên bản – hiệu lực – đối tượng áp dụng; (iii) không nắm được quan hệ pháp lý phức tạp; (iv) khó kiểm toán quyết định. URA-xLaw khắc phục bằng guardrail trích dẫn bắt buộc, giải thích theo trục thời gian, LawGraph và nhật ký quyết định theo agent, nhờ đó đảm bảo độ chính xác, minh bạch và khả năng kiểm chứng.
+Ý nghĩa kinh tế – xã hội
+•	Với tổ chức tín dụng: giảm rủi ro vi phạm, rút ngắn thời gian phê duyệt nghiệp vụ, tiết kiệm giờ công rà soát và chi phí tư vấn bên ngoài.
+•	Với doanh nghiệp và công chúng: nâng cao khả năng tiếp cận tri thức pháp luật cập nhật, củng cố văn hóa tuân thủ và giảm tranh chấp không cần thiết.
+•	Ở tầm hệ thống: khi các quy định được “gắn nối” bằng đồ thị và cập nhật có kỷ luật, ngành tài chính – ngân hàng tiến gần tới hạ tầng pháp lý số: quy định được truy vấn tức thời, áp dụng đúng bối cảnh và luôn có lời giải thích.
+Kết luận giá trị. URA-xLaw không chỉ là công cụ hỏi – đáp, mà là một lớp thông minh pháp lý bao phủ kho văn bản NHNN, kết hợp LawRAG (trả lời có trích dẫn), LawGraph (giải thích bằng quan hệ pháp luật) và kiến trúc agent (điều phối – hậu kiểm – cập nhật). Cùng cấu hình bốn gói từ SOLO đến ENTERPRISE SUITE on-prem, sản phẩm sẵn sàng thương mại hóa theo nhu cầu đa dạng, thể hiện chiều sâu kỹ thuật và độ tin cậy cần thiết để thuyết phục hội đồng về tính chính xác, minh bạch và khả năng mở rộng. Đây là bước tiến thực chất để chuyển “rừng văn bản” thành câu trả lời đúng, có căn cứ và có trách nhiệm cho toàn bộ hệ sinh thái tài chính – ngân hàng Việt Nam.
+ 
+IV. TÍNH ĐỔI MỚI & ĐỘC ĐÁO (Tối đa 1.000 từ)
+“Nội dung trình bày không bị  giới hạn bởi những đề xuất sau”
+Giải thích điều gì làm cho ý tưởng của bạn mang tính đổi mới hoặc khác biệt so với các giải pháp hiện có. Nêu bật những tính năng độc đáo, công nghệ sáng tạo hoặc cách tiếp cận mới lạ. Mô tả rõ kỹ thuật/công nghệ/ngôn ngữ lập trình (nếu có) được ứng dụng, phương thức ứng dụng.  Tại sao giải pháp của bạn tốt hơn các lựa chọn hiện tại? Tác động cụ thể của dự án đến đối tượng mục tiêu và toàn bộ hệ thống tài chính ngân hàng tại Việt Nam.
+URA-xLaw được thiết kế như một nền tảng tư vấn pháp lý chuyên biệt cho NHNN, tối ưu hóa theo ba trụ cột đổi mới:
+1.	Kiến trúc tri thức pháp luật phù hợp cấu trúc lập pháp Việt Nam;
+2.	LawRAG – mô hình Retrieval-Augmented Generation tinh chỉnh cho ngôn ngữ pháp lý tiếng Việt;
+3.	Lớp AI multi-agent điều phối – hậu kiểm, bảo đảm tính đúng đắn, minh bạch và khả năng kiểm toán.
+1./ Kiến trúc tri thức bám sát thực tiễn pháp luật
+Trung tâm của hệ thống là LawGraph – đồ thị tri thức pháp luật mô hình hóa các quan hệ sửa đổi, bãi bỏ, thay thế, tham chiếu, áp dụng và ngoại lệ giữa Luật – Nghị định – Thông tư – Quyết định.
+Mỗi đỉnh (văn bản hoặc điều khoản) được gắn trạng thái hiệu lực theo thời gian (temporal effectivity), cho phép suy luận “điều nào đúng – khi nào – áp dụng cho ai – và vì sao”. Khác với chỉ mục tĩnh theo từ khóa, LawGraph lưu toàn bộ đường viện dẫn để hiển thị cho người dùng, hỗ trợ kiểm chứng và giải thích rõ ràng.
+Dữ liệu được indexing qua ba bước:
+1.	Đọc nội dung gốc (Word/HTML) và tách theo Điều/Khoản/Mục bằng regex hoặc tag HTML.
+2.	Chuẩn hóa metadata (số hiệu, ngày ban hành, hiệu lực, loại văn bản).
+3.	Dùng LLM để trích xuất quan hệ pháp lý và cập nhật LawGraph.
+
+Hình 2. LawGraph – mô hình hóa quan hệ pháp lý và trạng thái hiệu lực theo thời gian
+2./ LawRAG – RAG chuyên miền luật tiếng Việt
+Khối LawRAG kết hợp truy hồi ngữ nghĩa với sinh câu trả lời, tối ưu cho thuật ngữ pháp lý Việt Nam.
+•	Chunking theo Điều/Khoản/Mục để giữ nguyên ngữ cảnh pháp luật.
+•	Hybrid retrieval: vector search + truy vấn cấu trúc theo số điều, tên văn bản, mốc hiệu lực.
+•	Multi-hop retrieval dựa trên đường đi trong LawGraph để hợp nhất phiên bản sửa đổi/bãi bỏ vào câu trả lời.
+
+Hình 3. Ví dụ phân tách (chunking) văn bản pháp luật theo Điều/Khoản – Văn bản gốc được tách thành các đoạn nhỏ tương ứng với từng Điều, giúp bảo toàn ngữ cảnh khi truy hồi và gắn trích dẫn chính xác.
+Guardrail trích dẫn bắt buộc (no citation → no answer) giúp hạn chế ảo giác và tăng độ tin cậy. Hai tính năng giá trị gia tăng:
+•	Diff & Redline: so sánh hai phiên bản Điều/Khoản, làm rõ thay đổi và tác động nghiệp vụ.
+•	Checklist tuân thủ tự động: xuất danh mục hành động kèm trích dẫn phục vụ tín dụng, kiểm soát nội bộ và kiểm toán.
+3./ Lớp AI multi-agent điều phối – hậu kiểm
+Một orchestrator (FastAPI) điều phối chuỗi tác tử (agent) để kiểm soát chất lượng đầu ra:
+•	Intent & Normalize Agent – xác định mục đích truy vấn và chuẩn hóa thuật ngữ pháp lý (ví dụ: “TSĐB” ↔ “tài sản bảo đảm”).
+•	Retriever Agent – truy hồi đa bước kết hợp LawGraph, lọc theo mốc hiệu lực và phạm vi áp dụng.
+•	Applicability & Effectivity Agent – suy luận đối tượng áp dụng, gắn nhãn hiệu lực.
+•	Citation & Guardrail Agent – hậu kiểm trích dẫn, đo độ tin cậy, kích hoạt re-retrieve khi cần.
+•	Change-Watcher Agent – theo dõi nguồn công bố chính thức, crawl – diff – cập nhật chỉ mục và LawGraph trong ≤ 24h.
+Cách tiếp cận này tách bạch retrieval (chi phí thấp) và LLM (chi phí cao), hỗ trợ cache, rate-limit, và mở rộng dễ dàng sang các miền luật khác (AML, dữ liệu cá nhân, ngoại hối).
+
+Hình 4. Pipeline LawRAG
+
+Hình 5. Kiến trúc AI multi-agent – điều phối, hậu kiểm và cập nhật dữ liệu, dựa trên LawRAG
+4./ Sự vượt trội của URA-xLaw
+URA-xLaw xử lý trọn vẹn ba biến số mà công cụ tổng dụng thường bỏ sót:
+•	Phiên bản văn bản
+•	Hiệu lực theo thời gian
+•	Đối tượng áp dụng
+Sự kết hợp giữa LawRAG (RAG tối ưu cho ngôn ngữ pháp lý, hybrid retrieval, multi-hop) và LawGraph (đồ thị quan hệ pháp luật) giúp không chỉ “tìm đúng” mà còn “giải thích được tại sao”. Chính sách no-citation → no-answer và cơ chế hậu kiểm của multi-agent tạo ra mức độ tin cậy vượt trội.
+
+Hình 6. Minh họa khả năng truy hồi đa bước (multi-hop) của LawRAG kết hợp LawGraph – Hệ thống trả lời ba loại truy vấn pháp lý: (i) tìm vị trí & chức năng trong văn bản đã bị bãi bỏ và thay thế; (ii) xác định đối tượng áp dụng với nội dung đã được sửa đổi; (iii) trích xuất nguyên tắc triển khai kèm tham chiếu tới các phụ lục liên quan.
+5./ Tác động tới đối tượng mục tiêu và toàn hệ thống
+•	Pháp chế, KSNB, kiểm toán nội bộ: giảm 60–80% thời gian rà soát, chuẩn hóa bằng chứng, cung cấp audit trail đầy đủ.
+•	Khối tín dụng/nghiệp vụ: quyết định nhanh hơn nhờ badge hiệu lực, phạm vi áp dụng rõ ràng, và Diff & Redline để lượng hóa tác động thay đổi.
+•	Doanh nghiệp, nhà đầu tư, cộng đồng học thuật: tiếp cận tri thức pháp luật cập nhật, có trích dẫn chính thống.
+•	Hệ sinh thái RegTech/LegalTech: hưởng lợi từ hạ tầng pháp lý số minh bạch, chuẩn hóa, có trách nhiệm giải trình.
+Ở tầm vĩ mô, URA-xLaw góp phần giảm chi phí tuân thủ, giảm rủi ro xử phạt, tăng tốc phê duyệt tín dụng, và hình thành văn hóa tuân thủ có căn cứ trong ngành tài chính – ngân hàng.
+V. TÍNH KHẢ THI (Tối đa 1.000 từ)
+“Nội dung trình bày không bị  giới hạn bởi những đề xuất sau”
+Trình bày về tính khả thi ban đầu của dự án, về mặt kỹ thuật và tài chính.  Làm thế nào để hiện thực hóa ý tưởng này ở giai đoạn đầu? Các vấn đề có thể gặp phải? Đề cập đến các nguồn lực, công nghệ hoặc hợp tác mà bạn sẽ cần.  Nếu có, hãy nêu bất kỳ dẫn chứng ban đầu nào cho thấy tính khả thi (ví dụ: nguyên mẫu, kết quả nghiên cứu).
+Tính khả thi ban đầu. URA-xLaw được phát triển trên nền tảng kỹ thuật đã được kiểm chứng: tìm kiếm kết hợp vector + keyword, đồ thị tri thức pháp lý (LawGraph), RAG chuyên miền luật Việt Nam (LawRAG), và kiến trúc agent-based. Chúng tôi đã hoàn thiện nguyên mẫu end-to-end: ingest dữ liệu → chuẩn hóa → chunk theo Điều/Khoản → lập chỉ mục ngữ nghĩa → truy hồi đa bước → sinh câu trả lời kèm trích dẫn → hậu kiểm guardrail.
+Video
+
+Giao diện chatbot tối giản đã sẵn sàng demo. Bộ dữ liệu khởi đầu gồm hơn 100 văn bản NHNN (~1.000 đơn vị pháp lý sau tiền xử lý).
+
+Hình 7. Màn hình đăng nhập URA-xLaw
+
+Hình 8. Giao diện trò chuyện của URA-xLaw
+
+Hình 9. Checklist mở thẻ tín dụng – URA-xLaw tự động trích xuất căn cứ pháp lý và sắp xếp các bước tuân thủ theo quy trình nghiệp vụ
+
+Hình 10. So sánh phiên bản (Diff & Redline) – URA-xLaw phân tích thay đổi giữa Nghị định 10/2023 và 99/2022, làm nổi bật phần sửa đổi và tác động nghiệp vụ
+
+Hình 11. Truy xuất định nghĩa và quy định hiện hành về 'Tài sản bảo đảm' từ Bộ luật Dân sự 2015 và Nghị định 99/2022
+
+Hình 12. Bảng so sánh và lựa chọn gói nâng cấp URA-xLaw: SOLO, TEAM, ENTERPRISE CLOUD và ENTERPRISE SUITE
+1. Khả thi về kỹ thuật
+Hệ thống được thiết kế dạng mô-đun, dễ triển khai và mở rộng:
+•	Orchestrator (FastAPI/Uvicorn): điều phối agent, quản lý request_id, timeout, retry, audit log.
+•	Search & Vector: Elasticsearch/OpenSearch cho truy vấn cấu trúc; Qdrant/Pinecone cho tìm kiếm ngữ nghĩa; có thể bổ sung reranker tăng độ chính xác.
+•	LawGraph: đồ thị pháp lý lưu quan hệ sửa đổi/bãi bỏ/thay thế/tham chiếu/áp dụng/ngoại lệ, cùng trạng thái hiệu lực theo thời gian. MVP dùng NetworkX/Neo4j; giai đoạn pilot chuẩn hóa sang Neo4j/TypeDB.
+•	LawRAG: RAG chuyên miền luật Việt Nam, chunk dữ liệu theo Điều/Khoản/Mục; bắt buộc trích dẫn; thiếu căn cứ → no-answer.
+•	AI Agents:
+1.	Intent & Normalize
+2.	Retriever (semantic + graph, lọc hiệu lực/đối tượng)
+3.	Applicability & Effectivity (gắn badge Còn hiệu lực/Hết hiệu lực/Dự thảo)
+4.	Citation & Guardrail (hậu kiểm trích dẫn/độ tin cậy)
+5.	Các agent mở rộng: Diff & Redline, Checklist tuân thủ.
+•	Cập nhật dữ liệu: Change-Watcher Agent giám sát nguồn công bố, tự động crawl → diff → versioning → reindex/regen graph, SLA cập nhật ≤ 24 giờ.
+•	Triển khai & giám sát: Docker/Compose (mở rộng K8s khi cần), Prometheus + OpenTelemetry tracing; multi-tenant hoặc on-prem/private cloud.
+•	Bảo mật & tuân thủ: tuân thủ Nghị định 13/2023 (ẩn danh log, mã hóa at-rest/in-transit, RBAC); hướng tới kiểm toán bảo mật ISO/IEC 27001.
+2. Nguồn lực & hợp tác
+Đội ngũ 5 thành viên (AI/NLP, backend, DevSecOps, pháp lý) bao phủ toàn bộ chuỗi giá trị từ dữ liệu đến vận hành. Hợp tác ưu tiên:
+(i)	Ngân hàng/tổ chức tín dụng để pilot use-case cụ thể (ví dụ: tín dụng bán lẻ);
+(ii)	Khoa/viện luật – tài chính để rà soát pháp lý, chuẩn hóa ontology;
+(iii)	Đối tác hạ tầng (cloud, graph DB) để tối ưu chi phí.
+3. Rủi ro & phương án giảm thiểu
+•	Cập nhật pháp luật liên tục: Change-Watcher + versioning, cảnh báo thay đổi, tái lập chỉ mục tự động, kiểm tra chéo trước phát hành.
+•	Ảo giác mô hình: cưỡng chế schema trích dẫn, no-answer khi thiếu căn cứ; human-in-the-loop cho truy vấn rủi ro cao.
+•	Chi phí LLM: cache, giới hạn token, batch retrieval; ưu tiên OSS on-prem khi đủ dữ liệu huấn luyện; theo dõi cost per 1.000 câu hỏi.
+•	Bảo mật & riêng tư: RBAC, mã hóa, phân vùng dữ liệu; kiểm thử xâm nhập định kỳ.
+•	Hiệu năng khi tải tăng: scale-out retriever trước, scale-up LLM theo ngưỡng; giám sát P50/P95, autoscaling.
+4. Khả thi về tài chính
+Bảng 1: OPEX/tháng – giai đoạn pilot (1–2 tổ chức)
+Hạng mục	Ước tính (VND/tháng)	Ghi chú
+Compute & Storage	20–30 triệu	VM/container, lưu trữ dữ liệu & logs
+Vector/Graph (managed)	12–18 triệu	Qdrant/Pinecone + Neo4j/TypeDB
+LLM Inference	25–40 triệu	Tùy lưu lượng, tối ưu prompt/context
+Giám sát/Backup/Logs	5–8 triệu	Prometheus + backup định kỳ
+Tổng OPEX ước tính	62–96 triệu	Mức trung bình LegalTech VN
+Bảng 2: CAPEX quý đầu (một lần)
+Hạng mục	Ước tính (VND)	Mục đích
+Phát triển tính năng & LawRAG	90–130 triệu	Core search, chunking, guardrail
+MLOps/CI-CD & hạ tầng triển khai	60–80 triệu	Pipeline build/deploy, test/UAT
+Bảo mật & kiểm thử	35–55 triệu	RBAC, mã hóa, pentest
+Kiểm thử, tài liệu & đào tạo	35–45 triệu	Test cases, hướng dẫn vận hành
+Tổng CAPEX quý đầu	220–310 triệu	Giai đoạn MVP
+(Tùy chọn) On-premise Enterprise Suite	160–260 triệu	Cài đặt tại hạ tầng KH
+Bảng 3: Mô hình doanh thu
+Gói	Đối tượng	Quyền lợi	Giá tham khảo
+SOLO	Cá nhân/SME	Chat tra cứu + trích dẫn; LawGraph viewer; 500–1.500 câu hỏi/tháng; export cơ bản	399k–599k/người/tháng
+TEAM	Phòng pháp chế nhỏ	+ Diff & Redline, Checklist tuân thủ, báo cáo tuần, webhook cảnh báo, SSO cơ bản	12–18 triệu/tháng/tổ chức
+ENTERPRISE CLOUD	TCTD/đơn vị lớn	API, namespace dữ liệu riêng, SLA 99%, hỗ trợ ưu tiên	80–160 triệu/tháng
+ENTERPRISE SUITE (on-prem)	Ngân hàng triển khai nội bộ	Full hệ thống, SSO/SAML, audit trail, giám sát Prometheus	Triển khai 400–650 triệu + vận hành 100–180 triệu/tháng
+
+Để tối ưu về chi phí hạ tầng và vận hành, URA-xLaw đã xây dựng một chiến lược quản lý chi phí chặt chẽ và mô hình kinh doanh linh hoạt, đảm bảo sự bền vững về tài chính ngay cả khi chưa đạt được quy mô lớn bằng cách tối ưu hoá chi phí hạ tầng LLM bằng cách không phụ thuộc hoàn toàn vào các mô hình LLM bên ngoài có chi phí cao. Thay vào đó tuỳ tình hình và đối tượng khách hàng, URA-xLaw có thể áp dụng các biện pháp tối ưu hóa thông minh như:
+•	Tận dụng mô hình nguồn mở (OSS): URA-xLaw ưu tiên sử dụng các mô hình LLM nguồn mở được tinh chỉnh riêng (fine-tuned) để chạy trên hạ tầng của mình. Điều này giúp kiểm soát hoàn toàn chi phí và không bị phụ thuộc vào giá API của các nhà cung cấp lớn.
+•	Caching & Tối ưu ngữ cảnh: Hệ thống sử dụng cơ chế caching để lưu trữ các truy vấn và câu trả lời thường xuyên, giảm thiểu số lượng lời gọi API tới LLM. Đồng thời, tối ưu hóa cách thức truyền ngữ cảnh (context) để giảm số lượng token đầu vào, trực tiếp cắt giảm chi phí tính trên mỗi truy vấn.
+•	Kiến trúc RAG tối ưu: Công nghệ LawRAG được thiết kế để chỉ truy vấn những văn bản liên quan nhất, thay vì phải xử lý toàn bộ cơ sở dữ liệu. Điều này giúp giảm đáng kể lượng dữ liệu cần đưa vào LLM, qua đó giảm chi phí vận hành.
+Ngoài ra, lựa chọn công nghệ cho hệ thống LawGraph cũng được cân nhắc kĩ lưỡng. Để đảm bảo chi phí vận hành hiệu quả, chúng tôi sử dụng các giải pháp Graph DB với công nghệ mã nguồn mở, dễ dàng tự triển khai và có cộng đồng hỗ trợ tốt (Neo4j). Tuỳ vào các giai đoạn triển khai, phát triển và nhu cầu của khách hàng, Graph DB có khả năng mở rộng linh hoạt và tối ưu hóa chi phí lưu trữ, chỉ trả tiền cho dung lượng và tài nguyên sử dụng thực tế.
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI. MỞ RỘNG & TĂNG TRƯỞNG (Tối đa 500 từ)
+“Nội dung trình bày không bị  giới hạn bởi những đề xuất sau”
+Mô tả kế hoạch mở rộng và cơ hội tăng trưởng của dự án.
+URA-xLaw được thiết kế theo kiến trúc mô-đun (LawRAG, LawGraph, lớp tác tử điều phối), cho phép mở rộng đồng thời theo chiều sâu nội dung và chiều ngang thị trường mà không phải thay đổi lõi. Mục tiêu 24 tháng là trở thành lớp hạ tầng pháp lý số phục vụ tác nghiệp ngân hàng – tài chính tại Việt Nam và sẵn sàng bản địa hóa cho một số nước ASEAN có cấu trúc quy phạm tương đồng.
+Chiều sâu nội dung. Mở rộng từ bộ văn bản NHNN sang các khối liên quan như Bộ Tài chính, Bộ Công an (AML), Bộ KH&ĐT, bảo vệ dữ liệu cá nhân, thanh toán, thẻ, ngoại hối và Basel II/III. Lớp suy luận hiệu lực được tinh chỉnh tới cấp Điều/Khoản/Phụ lục; tính năng Diff & Redline và kiểm tra áp dụng theo sản phẩm/dịch vụ được nâng cấp để hỗ trợ quy trình nghiệp vụ sâu hơn. Trên nền dữ liệu này, phát triển các gói giá trị gia tăng: cảnh báo thay đổi (SLA ≤ 24h), checklist tuân thủ, audit pack cho KSNB/kiểm toán và dashboard giám sát.
+Chiều ngang thị trường. Lộ trình ưu tiên là ngân hàng thương mại, công ty tài chính và tổ chức tín dụng phi ngân hàng; sau đó mở rộng sang chứng khoán, bảo hiểm, fintech, hãng luật và đào tạo luật – tài chính. Phân phối kết hợp PLG (SOLO/TEAM) và bán hàng doanh nghiệp (ENTERPRISE CLOUD/SUITE), kèm API tích hợp vào GRC/KSNB hoặc cổng nội bộ. Kế hoạch 12 tháng: hoàn tất pilot tại 1–2 ngân hàng; ra mắt SaaS công khai; ký 2–3 hợp đồng Enterprise Cloud; triển khai on-prem đầu tiên; đạt ≥1.000 người dùng và ≥20 tổ chức trả phí.
+Khả năng mở rộng. Thay vì xem việc mở rộng phạm vi dữ liệu là một rủi ro tiềm tàng, URA-xLaw đã biến đây thành lợi thế cạnh tranh cốt lõi. Khác với các hệ thống đơn ngành, kiến trúc LawGraph được xây dựng trên một nền tảng vững chắc: sự tương đồng về cấu trúc của hệ thống văn bản pháp luật Việt Nam. Theo nội dung ở Điều 62, Nghị định 34/2016/NĐ-CP quy định:
+Điều 62. Bố cục của văn bản
+1. Tùy theo nội dung, văn bản có thể được bố cục như sau:c
+a) Phần, chương, mục, tiểu mục, điều, khoản, điểm;
+b) Phần, chương, mục, điều, khoản, điểm;
+c) Chương, mục, tiểu mục, điều, khoản, điểm;
+d) Chương, mục, điều, khoản, điểm;
+đ) Chương, điều, khoản, điểm;
+e) Điều, khoản, điểm.
+Mọi văn bản quy phạm pháp luật đều tuân thủ các nguyên tắc trình bày thống nhất, từ quốc hiệu, tiêu ngữ đến bố cục nội dung (Chương, Mục, Tiểu mục, Điều, Khoản, Điểm...), đặc biệt “Điều” là đơn vị nội dung luôn luôn có trong phần nội dung. LawGraph của URA-xLaw được thiết kế để nhận diện và xây dựng các mối quan hệ logic dựa trên chính các cấu trúc chuẩn hóa này và lấy chính xác nội dung loại “Điều” làm trung tâm. Nhờ đó, khi mở rộng từ văn bản của NHNN sang Bộ Tài chính hay Bộ Công an, hệ thống không phải đối mặt với một cấu trúc hoàn toàn mới, mà chỉ cần tích hợp thêm dữ liệu vào khung sườn đã được định hình sẵn. Lợi thế này giúp giảm đáng kể độ phức tạp và tăng tốc độ triển khai. Việc mở rộng dữ liệu càng nhiều, LawGraph càng trở nên phong phú và khó sao chép, tạo ra một "hào dữ liệu" vững chắc cho URA-xLaw.
+Khả năng cập nhật liên tục. Change-Watcher Agent hoạt động dựa trên một pipeline hoàn toàn tự động liên tục theo dõi đa nguồn. Dữ liệu có thể được crawl từ các nguồn website chính thống đáng tin cậy như Cơ Sở Dữ Liệu Quốc Gia Về Văn Bản Pháp Luật (https://vbpl.vn), Thư Viện Pháp Luật (https://thuvienphapluat.vn), Luật Việt Nam (https://luatvietnam.net). Nhờ vào tính ổn định và định dạng chuẩn hóa của các nguồn này, hệ thống có thể tự động nhận biết khi có văn bản mới hoặc văn bản hiện hành được sửa đổi, đồng thời tránh được việc quá phụ thuộc vào một nguồn dữ liệu thu thập.
+Động lực tăng trưởng. “Hào dữ liệu” từ LawGraph và cơ chế versioning — càng nhiều đối tác, đồ thị càng giàu và khó sao chép — cùng các add-on (Alerts, Redline nâng cao, Dashboard) tăng doanh thu trên mỗi khách hàng. Kiến trúc agent-based cho phép thêm miền mới nhanh (AML, dữ liệu cá nhân…), tạo cơ hội upsell sang Enterprise/Suite; API tích hợp vào quy trình hiện hữu tạo switching cost tự nhiên.
+Chỉ số mục tiêu. P95 latency < 2 giây, SLA 99% (cloud), SLA cập nhật ≤ 24 giờ, precision ≥ 90%, recall ≥ 85%, 100% câu trả lời có ít nhất một trích dẫn hợp lệ; churn < 3%/quý, NRR > 110% nhờ add-on.
+Giảm thiểu rủi ro. Tần suất thay đổi pháp luật (pipeline diff + versioning tự động), chi phí LLM khi tăng tải (cache, tối ưu ngữ cảnh, dùng mô hình OSS on-prem), yêu cầu bảo mật (RBAC, audit trail, roadmap ISO 27001).
+Với chiến lược này, URA-xLaw hướng tới trở thành nền tảng RegTech/LegalTech tiêu chuẩn cho ngành tài chính – ngân hàng Việt Nam, đồng thời là mô hình khả nhân rộng sang thị trường ASEAN, tạo tiền đề mở rộng sang các miền luật quốc tế tương đồng.
+ 
+VII. TÁC ĐỘNG (Tối đa 500 từ)
+“Nội dung trình bày không bị  giới hạn bởi những đề xuất sau”
+Trình bày tác động của dự án đến các đối tượng, thành phần khác có liên quan. VD: trên khía cạnh kinh tế, xã hội…
+URA-xLaw tạo ra tác động đa tầng, từ hiệu quả tác nghiệp vi mô đến chuẩn mực minh bạch ở tầm hệ thống.
+Tác động tại tổ chức tín dụng. Nền tảng giúp rút ngắn đáng kể thời gian rà soát và đối chiếu quy định nhờ trả lời có trích dẫn, kèm giải thích. Bộ phận pháp chế, KSNB và kiểm toán nội bộ chuẩn hóa quy trình kiểm tra căn cứ pháp lý, xây dựng hồ sơ minh chứng nhất quán, giảm sai lệch do áp dụng nhầm phiên bản hoặc bỏ sót ngoại lệ. Với khối tín dụng và nghiệp vụ tuyến đầu, các nhãn hiệu lực và suy luận phạm vi áp dụng cho phép ra quyết định nhanh và chính xác, đồng thời hạn chế rủi ro tuân thủ trong từng giao dịch. Thay vì thay thế hoàn toàn quy trình truyền thống, URA-xLaw tập trung vào việc trở thành một công cụ hỗ trợ không thể thiếu, bổ sung những giá trị cốt lõi mà phương pháp tư vấn pháp lý truyền thống không thể có được. Bằng việc ung cấp các gói dùng thử và hỗ trợ chuyên sâu để bộ phận pháp chế có thể trực tiếp trải nghiệm và so sánh hiệu quả giữa URA-xLaw và quy trình thủ công của họ. Từ đó dần dần định hình thói quen, hành vi và xây dựng niềm tin đến với tập khách hàng, biến URA-xLaw trở thành công cụ hỗ trợ làm việc không thể thiếu cho các tác vụ hằng ngày.
+Tác động với doanh nghiệp và nhà đầu tư. Khả năng tiếp cận tri thức pháp luật cập nhật, có dẫn chiếu chính thống giúp giảm phụ thuộc vào tra cứu thủ công và nguồn thứ cấp thiếu tin cậy. Điều này nâng cao năng lực tự tuân thủ, giảm chi phí tư vấn lặp lại, đồng thời cải thiện chất lượng đối thoại với ngân hàng khi triển khai sản phẩm, dịch vụ tài chính.
+Tác động với cộng đồng học thuật. URA-xLaw đóng vai trò là kho tri thức có cấu trúc, hỗ trợ giảng dạy và nghiên cứu các tình huống pháp lý thực tiễn, góp phần hình thành lực lượng lao động có tư duy “có căn cứ, có trích dẫn”.
+Tác động ở tầm hệ thống. Với LawGraph và cơ chế quản trị phiên bản, dự án đặt nền móng cho “hạ tầng pháp lý số”. Mỗi kết luận đều có đường viện dẫn rõ ràng, tăng trách nhiệm giải trình và giảm tranh chấp do hiểu sai văn bản. Hệ thống cảnh báo thay đổi và so sánh phiên bản (Diff & Redline) hỗ trợ đánh giá tác động chính sách nhanh, nhất quán, tạo tiền đề cho thử nghiệm đổi mới (regulatory sandbox).
+Tác động kinh tế và xã hội. Tác động kinh tế thể hiện ở ba trục: tiết kiệm chi phí tuân thủ (giờ công, tư vấn), giảm chi phí rủi ro (xử phạt, khắc phục) và tăng tốc độ đưa sản phẩm/quy trình ra thị trường. Ở quy mô hệ thống, khi nhiều tổ chức cùng sử dụng một chuẩn dữ liệu – trích dẫn – giải thích, ma sát thông tin giảm, quản trị rủi ro nâng cao và niềm tin thị trường được củng cố. Việc giảm nhu cầu in ấn, lưu trữ giấy tờ cũng góp phần tiết kiệm tài nguyên, phù hợp định hướng phát triển bền vững.
+Tổng thể. URA-xLaw không chỉ nâng năng suất và giảm rủi ro cho từng đơn vị, mà còn nâng tiêu chuẩn minh bạch, kiểm chứng trong toàn ngành; hỗ trợ mục tiêu chuyển đổi số tài chính – ngân hàng tại Việt Nam theo hướng hiệu quả, an toàn và có trách nhiệm.
+
+
+VIII. MỘT SỐ PHẦN BỔ SUNG (Không bắt buộc) (Tối đa 2.000 từ)
+“Nội dung trình bày không bị  giới hạn bởi những đề xuất sau”
+•	Pháp lý
+•	Chiến lược marketing cụ thể
+•	Dự phóng kết quả kinh doanh, dòng tiền từ 3-5 năm
+•	Đội ngũ quản lý
+•	Chi tiết các rủi ro tiềm tàng và phương pháp phòng tránh
+•	Kế hoạch gọi vốn, sử dụng vốn…
+•	…
+1. Cơ sở pháp lý
+URA-xLaw hoạt động dựa trên nền tảng dữ liệu công khai và hợp pháp, bao gồm hệ thống văn bản quy phạm pháp luật do Ngân hàng Nhà nước Việt Nam và các cơ quan quản lý nhà nước khác ban hành. Nguồn dữ liệu là các văn bản chính thống đã được công bố theo Luật Ban hành văn bản quy phạm pháp luật 2015 và Luật Tiếp cận thông tin 2016.
+Hệ thống không lưu trữ thông tin cá nhân hay dữ liệu nội bộ của người dùng, tuân thủ nghiêm ngặt các nguyên tắc bảo mật và quyền riêng tư theo Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân. Trong giai đoạn thương mại hóa, hệ thống sẽ được kiểm tra bảo mật theo tiêu chuẩn ISO/IEC 27001 và sẵn sàng xin cấp chứng nhận khi cần thiết.
+2. Chiến lược marketing
+URA-xLaw được định vị là sản phẩm LegalTech chuyên sâu cho ngành tài chính – ngân hàng, với chiến lược tiếp cận thị trường theo ba giai đoạn:
+•	Giai đoạn 1 – Awareness (6 tháng đầu): Tổ chức hội thảo, tọa đàm với ngân hàng và trường đại học luật – tài chính; xuất bản bài viết chuyên môn trên các kênh như CafeF, VnEconomy, LuatVietnam.
+•	Giai đoạn 2 – Pilot & Partnership: Ký kết hợp tác thử nghiệm với 1–2 ngân hàng thương mại để triển khai pilot, thu thập phản hồi và xây dựng case study thực tế.
+•	Giai đoạn 3 – Thương mại hóa: Ra mắt phiên bản SaaS công khai với các gói dịch vụ (Basic, Enterprise, Academic); triển khai chiến dịch giới thiệu sản phẩm tại hội chợ công nghệ, sự kiện Fintech, và hợp tác cùng các tổ chức như Fintech Vietnam, VNBA, CLB Pháp chế Ngân hàng.
+Kênh phân phối: kết hợp inbound (website, chatbot tư vấn) và outbound (tiếp cận trực tiếp bộ phận pháp chế ngân hàng, đối tác chiến lược). Sau 2 năm, mở rộng kênh phân phối thứ cấp qua các đối tác phần mềm core banking và compliance.
+3. Lợi thế cạnh tranh & Định vị thị trường
+•	Chuyên sâu vào thị trường ngách Ngân hàng – Tài chính. URA xLaw là nền tảng LegalTech đầu tiên tại Việt Nam tập trung sâu vào nhu cầu quy định pháp lý của ngành ngân hàng, thay vì hướng tới thị trường luật chung. Đây là một phân khúc ít đối thủ khai thác, tạo lợi thế về uy tín và khác biệt. Ngoài ra, URA xLaw nổi bật hơn các đối thủ còn lại với việc sử dụng AI để hỗ trợ xây dựng LawGraph - một mạng lưới kiến thức phức tạp được xây dựng để nhận diện, phân tích và liên kết hàng triệu điểm dữ liệu pháp lý. Điều này giúp định hình thương hiệu và xây dựng một rào cản lớn cho bất kỳ đối thủ nào muốn cạnh tranh vì để có thể thu thập dữ liệu và xây dựng một hệ thống tương tự sẽ cần rất nhiều thời gian, tài nguyên và chuyên môn kỹ thuật.
+•	LawGraph – Trực quan hóa tri thức pháp luật. LawGraph không chỉ tổ chức dữ liệu bằng đồ thị tri thức mà còn cho phép diễn giải rõ các mối quan hệ pháp luật (sửa đổi, hiệu lực, tham chiếu, ngoại lệ…) theo từng thời điểm. Điều này tăng khả năng hiểu và lập luận cho người dùng, vượt trội hơn nhiều so với tìm kiếm bằng từ khóa truyền thống hoặc bot pháp luật ít minh bạch.
+•	Cập nhật tự động, luôn mới và có căn cứ. Hệ thống crawling – diff – versioning tự động đảm bảo dữ liệu pháp luật luôn cập nhật kịp thời và chính xác. Tính năng cảnh báo thay đổi giúp giảm thiểu rủi ro áp dụng sai quy định — một ưu thế cạnh tranh rõ rệt khi nhu cầu tuân thủ ngày càng cao.
+•	Triển khai linh hoạt, đáp ứng yêu cầu bảo mật cao của ngân hàng. Khả năng triển khai on premise cho phép URA xLaw phù hợp với yêu cầu an toàn dữ liệu, đặc biệt trong ngân hàng, nơi hạ tầng riêng tư là tiêu chuẩn bắt buộc. Đây là điểm khác biệt lớn so với các nền tảng LegalTech thường chỉ cung cấp dịch vụ SaaS.
+Cơ hội thị trường mở rộng
+•	Đà tăng trưởng toàn cầu của Legal AI. Theo MarketsandMarkets, quy mô thị trường Legal AI toàn cầu ước đạt 3,11 tỷ USD vào năm 2025, và có thể đạt 10,82 tỷ USD vào năm 2030 với tốc độ CAGR cao khoảng 28,3%. Các tập đoàn pháp lý, tổ chức tài chính đang chuyển hướng sang công nghệ để giảm chi phí, tăng hiệu quả, tạo cơ hội lớn cho URA xLaw trên thị trường nội địa và châu Á.
+•	Bức tranh LegalTech tại Việt Nam đang dần hình thành. Hiện có hơn chục startup LegalTech tại Việt Nam như Vietlaw, IURA, Legback, Thư viện pháp luật, nhưng hầu hết đều hướng tới cá nhân hoặc pháp lý dân sự — chưa có nền tảng nào chuyên sâu cho nghiệp vụ ngân hàng. URA xLaw dẫn đầu xu hướng mới này.
+•	Cộng hưởng từ công nghệ tri thức Việt Nam. Nhiều công trình nghiên cứu gần đây của VN và quốc tế khẳng định knowledge graph là công cụ mạnh, giúp cải thiện độ chính xác trong truy vấn luật, kháng biến thể ngôn ngữ và hỗ trợ QA hiệu quả trong lĩnh vực pháp lý. Điều này củng cố nền tảng kỹ thuật và khả năng mở rộng của URA-xLaw.
+Tóm lại. URA-xLaw nổi bật với việc kết hợp tri thức pháp luật sâu, cập nhật tự động, đáp ứng nghiêm ngặt tiêu chuẩn ngân hàng, cùng tiềm năng thị trường đang tăng mạnh và thiếu sự cạnh tranh trong phân khúc ngách. Đây là nền tảng vững chắc để gây ấn tượng với nhà đầu tư và khẳng định vị thế trên bản đồ RegTech – LegalTech Việt Nam.
+4. Rủi ro và biện pháp phòng tránh
+Loại rủi ro	Mô tả	Biện pháp phòng tránh
+Kỹ thuật	Mô hình AI có thể sinh câu trả lời sai hoặc thiếu chính xác.	Giới hạn truy vấn, đánh giá phản hồi người dùng, huấn luyện lại định kỳ.
+Pháp lý	Văn bản pháp luật thay đổi nhanh, gây lỗi thời dữ liệu.	Xây dựng cơ chế crawling – cảnh báo – cập nhật tự động.
+Tài chính	Chi phí inference tăng cao nếu không kiểm soát truy vấn.	Giới hạn truy vấn theo gói dịch vụ, tích hợp mô hình mã nguồn mở để tối ưu chi phí.
+Bảo mật	Truy vấn pháp lý có thể chứa thông tin nhạy cảm.	Mã hóa dữ liệu, lưu log ẩn danh, tuân thủ GDPR/Nghị định 13.
+
+5. Đội ngũ sáng lập và điều hành
+Đội ngũ URAx là sự kết hợp giữa kiến thức chuyên môn đa ngành và tinh thần khởi nghiệp:
+1.	Nguyễn Song Thiên Long – Trưởng nhóm; nghiên cứu AI và truy vấn thông tin; nhiều kinh nghiệm triển khai dự án AI và xử lý dữ liệu lớn trong hợp tác với doanh nghiệp.
+
+2.	Lê Thanh Duy – AI Engineer; giàu kinh nghiệm triển khai các dự án ứng dụng AI.
+3.	Võ Thị Như Quỳnh – AI Engineer; xây dựng pipeline xử lý ngôn ngữ tự nhiên tiếng Việt.
+4.	Phan Quốc Khoa – Tư vấn pháp lý; đảm bảo tính chính xác và hợp pháp của nội dung; thiết kế ontology pháp luật.
+5.	Lê Ngọc Hùng Dũng – DevOps & Security; phụ trách triển khai hệ thống, bảo mật và tối ưu hiệu suất.
+Cố vấn chuyên môn:
+1.	PGS. TS. Quản Thành Thơ – Trưởng Khoa, Khoa Khoa học và Kỹ thuật Máy tính, Trường Đại học Bách khoa – ĐHQG-HCM.
+
+2.	ThS. Nguyễn Ngọc Thái – Phó Giám đốc phụ trách kỹ thuật kiêm Trưởng phòng Tư vấn giải pháp, Viettel Solutions.
+

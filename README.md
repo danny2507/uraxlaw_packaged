@@ -219,32 +219,3 @@ npm run preview
 Đội ngũ URAx — Trường Đại học Bách khoa – ĐHQG‑HCM  
 Email: long.nguyencse2023@hcmut.edu.vn — Điện thoại: 0837026259
 
----
-
-## Phụ lục A — Tính năng cốt lõi (rút gọn từ tài liệu dự án)
-
-- Trả lời có trích dẫn Điều/Khoản bắt buộc; thiếu căn cứ → trả lời “không có đủ căn cứ” (no‑answer)
-- Suy luận hiệu lực theo thời gian, đối tượng áp dụng; gắn badge Còn hiệu lực/Hết hiệu lực/Dự thảo
-- Explain Path (mini‑graph) giải thích đường viện dẫn/sửa đổi dẫn tới kết luận hiện hành
-- Diff & Redline theo Điều/Khoản; lượng hóa thay đổi và tác động nghiệp vụ
-- Checklist tuân thủ tự động kèm trích dẫn; xuất Word/PDF
-- Change‑Watcher tự động theo dõi nguồn chính thống, crawl → diff → cập nhật chỉ mục/LawGraph ≤ 24h
-
-## Phụ lục B — Đối tượng & Use‑case tiêu biểu
-
-- Pháp chế, KSNB, kiểm toán nội bộ: rà soát nhanh, chuẩn hóa bằng chứng, audit trail đầy đủ
-- Khối tín dụng/nghiệp vụ: quyết định nhanh với badge hiệu lực/phạm vi áp dụng, dùng Diff để lượng hóa tác động
-- Cố vấn pháp lý, học thuật: truy vấn có trích dẫn chính thống, phục vụ đào tạo/nghiên cứu
-
-## Phụ lục C — Chỉ số mục tiêu & SLA (tham khảo)
-
-- P95 latency < 2 giây; SLA uptime 99% (cloud)
-- SLA cập nhật dữ liệu ≤ 24 giờ qua Change‑Watcher
-- Precision mục tiêu ≥ 90%, Recall ≥ 85%; 100% trả lời có ≥ 1 trích dẫn hợp lệ
-
-## Phụ lục D — Gói sản phẩm (định vị)
-
-- SOLO: cá nhân/SME tra cứu nhanh
-- TEAM: nhóm pháp chế/fintech cộng tác
-- ENTERPRISE CLOUD: tổ chức tài chính cần API, SLA, tích hợp hệ thống
-- ENTERPRISE SUITE (on‑prem/private cloud): triển khai nội bộ, bảo mật cao

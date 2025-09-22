@@ -11,7 +11,44 @@ Các điểm nhấn:
 
 ---
 
-## 1) Yêu cầu hệ thống
+## Kiến trúc & Công nghệ (tóm tắt)
+
+- LawRAG: RAG chuyên miền luật tiếng Việt, chunk theo Điều/Khoản, hybrid retrieval, multi‑hop
+- LawGraph: đồ thị tri thức mô hình hóa sửa đổi/bãi bỏ/tham chiếu/áp dụng/ngoại lệ + hiệu lực theo thời gian
+- AI Multi‑Agent: Intent & Normalize → Retriever → Applicability & Effectivity → Citation & Guardrail
+- Backend: LightRAG API (FastAPI/Uvicorn), cấu hình qua .env + config.ini, đóng gói Docker
+- Frontend: Vite + React + TypeScript, streaming endpoint `/query/stream`
+
+### Ảnh chụp màn hình
+
+> Một số màn hình chính phản ánh trải nghiệm Answer Card gọn gàng, huy hiệu hiệu lực, trích dẫn Điều/Khoản và các tiện ích Diff/Checklist.
+
+- Đăng nhập:  
+  ![Login](images/UI_1_Login.png)
+
+- Giao diện Chat và Answer Card:  
+  ![Chat](images/UI_2_Chat.png)
+
+- Checklist tuân thủ tự động:  
+  ![Checklist](images/UI_3_Checklist.png)
+
+- So sánh phiên bản (Diff & Redline):  
+  ![Diff & Redline](images/UI_4_DiffRedline.png)
+
+- Truy hồi đa bước & chuẩn hóa thuật ngữ:  
+  ![Retrieve & Normalize](images/UI_5_Retreieve_and_term_normalization.png)
+
+### Kiến trúc qua hình ảnh
+
+- LawGraph: mô hình hóa quan hệ pháp lý và trạng thái hiệu lực theo thời gian.  
+  ![LawGraph](images/LawGraph.png)
+
+- AI Multi‑Agent Orchestration: điều phối, hậu kiểm và cập nhật dữ liệu dựa trên LawRAG.  
+  ![AI Multi‑Agent](images/AI%20Multi-agent%20architecture.png)
+
+---
+
+## Yêu cầu hệ thống
 
 - Hệ điều hành: Windows, macOS, hoặc Linux
 - Docker Desktop + Docker Compose v2
@@ -22,7 +59,7 @@ Lưu ý: Cấu hình mặc định backend dùng OpenAI (gpt‑4o) cho LLM và O
 
 ---
 
-## 2) Cấu trúc thư mục
+## Cấu trúc thư mục
 
 ```
 URAxLaw-backend/      # Backend LightRAG API + phục vụ ingest/QA + đồ thị tri thức
@@ -55,7 +92,7 @@ images/                # Tài nguyên hình ảnh dùng trong README
 
 ---
 
-## 3) Cấu hình Backend (bắt buộc trước khi chạy)
+## Cấu hình Backend (bắt buộc trước khi chạy)
 
 Tạo file .env từ mẫu và điều chỉnh biến môi trường cần thiết:
 
@@ -86,7 +123,7 @@ Các biến quan trọng trong .env:
 
 ---
 
-## 4) Chạy Backend
+## Chạy Backend
 
 Chỉ cần Docker Compose:
 
@@ -101,7 +138,7 @@ docker compose up -d
 
 ---
 
-## 5) Cấu hình Frontend
+## Cấu hình Frontend
 
 Frontend đã mặc định trỏ API về http://localhost:9621 (xem src/api/client.ts). Bạn có thể đổi qua biến môi trường Vite nếu cần:
 
@@ -122,7 +159,7 @@ API key (nếu backend bật):
 
 ---
 
-## 6) Chạy Frontend (dev)
+## Chạy Frontend (dev)
 
 ```bash
 cd URAxLaw-frontend
@@ -142,44 +179,7 @@ npm run preview
 
 ---
 
-## 7) Kiến trúc & Công nghệ (tóm tắt)
-
-- LawRAG: RAG chuyên miền luật tiếng Việt, chunk theo Điều/Khoản, hybrid retrieval, multi‑hop
-- LawGraph: đồ thị tri thức mô hình hóa sửa đổi/bãi bỏ/tham chiếu/áp dụng/ngoại lệ + hiệu lực theo thời gian
-- AI Multi‑Agent: Intent & Normalize → Retriever → Applicability & Effectivity → Citation & Guardrail
-- Backend: LightRAG API (FastAPI/Uvicorn), cấu hình qua .env + config.ini, đóng gói Docker
-- Frontend: Vite + React + TypeScript, streaming endpoint `/query/stream`
-
-### 7.1) Ảnh chụp màn hình
-
-> Một số màn hình chính phản ánh trải nghiệm Answer Card gọn gàng, huy hiệu hiệu lực, trích dẫn Điều/Khoản và các tiện ích Diff/Checklist.
-
-- Đăng nhập:  
-  ![Login](images/UI_1_Login.png)
-
-- Giao diện Chat và Answer Card:  
-  ![Chat](images/UI_2_Chat.png)
-
-- Checklist tuân thủ tự động:  
-  ![Checklist](images/UI_3_Checklist.png)
-
-- So sánh phiên bản (Diff & Redline):  
-  ![Diff & Redline](images/UI_4_DiffRedline.png)
-
-- Truy hồi đa bước & chuẩn hóa thuật ngữ:  
-  ![Retrieve & Normalize](images/UI_5_Retreieve_and_term_normalization.png)
-
-### 7.2) Kiến trúc qua hình ảnh
-
-- LawGraph: mô hình hóa quan hệ pháp lý và trạng thái hiệu lực theo thời gian.  
-  ![LawGraph](images/LawGraph.png)
-
-- AI Multi‑Agent Orchestration: điều phối, hậu kiểm và cập nhật dữ liệu dựa trên LawRAG.  
-  ![AI Multi‑Agent](images/AI%20Multi-agent%20architecture.png)
-
----
-
-## 8) Bảo mật, CORS và xác thực
+## Bảo mật, CORS và xác thực
 
 - Đặt LIGHTRAG_API_KEY trong backend .env để yêu cầu API key khi truy cập API
 - Tên header/query: `api_key_header_value`
@@ -189,7 +189,7 @@ npm run preview
 
 ---
 
-## 9) Troubleshooting
+## Troubleshooting
 
 - 401 Unauthorized: Thiếu/không khớp API key. Kiểm tra LIGHTRAG_API_KEY (backend) và api_key_header_value (frontend)
 - Backend không lên: Kiểm tra cổng 9621 có bị chiếm; xem `docker compose logs -f`; kiểm tra LLM/Embedding cấu hình
@@ -199,7 +199,7 @@ npm run preview
 
 ---
 
-## 10) Tuỳ biến & mở rộng
+## Tuỳ biến & mở rộng
 
 - Thay đổi nhà cung cấp LLM/Embedding qua biến .env
 - Nâng cấp storage (Redis/Mongo/Postgres/Neo4j/Milvus/Qdrant) cho production
@@ -207,14 +207,14 @@ npm run preview
 
 ---
 
-## 11) Giấy phép & Ghi công
+## Giấy phép & Ghi công
 
 - Backend sử dụng LightRAG (xem LICENSE trong URAxLaw-backend). Các quyền và điều kiện tuân theo giấy phép của dự án gốc.
 - Mọi nhãn hiệu và tên sản phẩm thuộc về chủ sở hữu tương ứng.
 
 ---
 
-## 12) Liên hệ
+## Liên hệ
 
 Đội ngũ URAx — Trường Đại học Bách khoa – ĐHQG‑HCM  
 Email: long.nguyencse2023@hcmut.edu.vn — Điện thoại: 0837026259

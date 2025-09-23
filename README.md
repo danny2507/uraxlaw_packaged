@@ -45,6 +45,7 @@ Các điểm nhấn:
 
 - AI Multi‑Agent Orchestration: điều phối, hậu kiểm và cập nhật dữ liệu dựa trên LawRAG.  
   ![AI Multi‑Agent](images/AI%20Multi-agent%20architecture.png)
+  ![AI Multi‑Agent](images/AI%20Multi-agent%20architecture2.png)
 
 ---
 
